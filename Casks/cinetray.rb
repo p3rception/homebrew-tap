@@ -1,6 +1,6 @@
 cask "cinetray" do
-  version "2026.10.01"
-  sha256 "4b1cf817708d2ea88910bf17442a05fb1e6e0d0943e1f8fa95a1cd88bd25578a"
+  version "1.0.0"
+  sha256 "6a61769e93726219192c4a850935451799c1139559baf88a4cf7d2740d847656"
 
   url "https://github.com/p3rception/CineTray/releases/download/v#{version}/CineTray.zip"
   name "CineTray"
