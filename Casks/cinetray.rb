@@ -8,7 +8,7 @@ cask "cinetray" do
   homepage "https://github.com/p3rception/CineTray"
 
   depends_on arch: :arm64
-  depends_on macos: ">= :tahoe"
+  depends_on macos: :tahoe
 
   app "CineTray.app"
 
